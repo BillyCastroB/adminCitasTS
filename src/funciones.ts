@@ -1,7 +1,7 @@
 import Notificacion from './classes/Notificacion';
 import AdminCitas from './classes/AdminCitas';
 import { citaObj, editando } from './variables'
-import { formulario, formularioInput, pacienteInput, propietarioInput, emailInput, fechaInput, sintomasInput } from './selectores'
+import {formulario, formularioInput, pacienteInput, propietarioInput, emailInput, fechaInput, sintomasInput } from './selectores'
 import { Cita } from './types';
 
 const citas = new AdminCitas()

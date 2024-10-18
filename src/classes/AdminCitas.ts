@@ -1,5 +1,5 @@
 import { contenedorCitas } from "../selectores"
-import { cargarEdicion } from "../funciones"
+import { cargarEdicion } from "../funciones.ts"
 import type { Cita } from '../types'
 
 export default class AdminCitas {
